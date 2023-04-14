@@ -1,0 +1,11 @@
+{
+  "name": "lunachi",
+  "version": "1.0.0",
+  "description": "Simple custom own programming language",
+  "main": "index.js",
+  "author": "miruchi",
+  "license": "MIT",
+  "type": "module",
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
